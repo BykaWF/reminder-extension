@@ -101,10 +101,6 @@ For LeetCode problems, this means:
 
 Contributions are welcome! Feel free to submit a pull request or open an issue if you have ideas for improvements.
 
-## License
-
-MIT License - see LICENSE file for details.
-
 ## Privacy
 
 This extension stores all data locally on your computer. No data is transmitted to external servers.
