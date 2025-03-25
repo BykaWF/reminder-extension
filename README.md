@@ -2,6 +2,8 @@
 
 A Chrome extension that helps you practice LeetCode problems using spaced repetition principles.
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Click%20to%20Install-brightgreen?logo=google-chrome)](https://chromewebstore.google.com/detail/leetcode-review-reminder/glhcifpbhablgopgcmdbdaihkobojnbp)
+
 ## Overview
 
 LeetCode Review Reminder tracks which programming problems you've completed on LeetCode and reminds you when to review them again. By using spaced repetition (reviewing at increasing intervals), you'll strengthen your memory of solutions and coding patterns over time.
